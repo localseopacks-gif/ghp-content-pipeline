@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "site": "GarlandHomePros.com",
+    "built_from": "garlandhomepros.com on-site extraction",
+    "last_updated": "2026-04-20",
+    "site_type": "rank_and_rent",
+    "renter_scope": "all services listed, all price levels, all 8 listed cities",
+    "source_pages_crawled": [
+      "/",
+      "/kitchen-remodeling-garland-tx/",
+      "/bathroom-remodeling-garland-tx/",
+      "/service-areas/"
+    ],
+    "site_age_state": "early/cold launch"
+  },
+
+  "company": {
+    "name": "Garland Home Pros",
+    "short_name": "GHP",
+    "tagline": "Your Local Remodeling Experts",
+    "positioning": "Locally owned home remodeling company and general contracting firm — not a franchise, not a national chain, not a call center",
+    "phone": "(469) 518-0206",
+    "address": "2913 Big Oaks Dr, Garland, TX 75044",
+    "hours": "Available 24/7",
+    "facebook": "https://www.facebook.com/GarlandHomePros",
+    "years_experience_claimed": 15,
+    "google_rating_claimed": 5.0,
+    "satisfaction_guarantee": "100%",
+    "estimate_policy": "Free same-day written estimates",
+    "permit_policy": "All City of Garland permits handled by GHP — customer never deals with the city"
+  },
+
+  "services": [
+    {
+      "id": "kitchen_remodeling",
+      "name": "Kitchen Remodeling",
+      "url": "/kitchen-remodeling-garland-tx/",
+      "description": "Full kitchen renovations — cabinet replacement, countertops, flooring, lighting, plumbing, and complete gut-and-rebuild projects",
+      "sub_services": [
+        {"name": "Cabinet Installation & Replacement", "description": "Custom, semi-custom, and stock cabinets — properly fitted, perfectly finished"},
+        {"name": "Countertop Installation", "description": "Granite, quartz, marble, butcher block installation with removal of old counters"},
+        {"name": "Kitchen Layout & Design", "description": "Design service for optimizing function, storage, and visual appeal"},
+        {"name": "Lighting & Electrical", "description": "Under-cabinet, pendant, recessed lighting with all electrical to code"},
+        {"name": "Plumbing & Fixtures", "description": "Sink, faucet, dishwasher, kitchen island plumbing in-house"},
+        {"name": "Full Kitchen Renovation", "description": "Complete gut-and-rebuild from demolition through final finishes"},
+        {"name": "Backsplash Installation", "description": "Tile backsplashes — subway, mosaic, marble, large format"},
+        {"name": "Kitchen Flooring", "description": "Hardwood, luxury vinyl plank, tile, and laminate installation"}
+      ],
+      "timeline": "Minor update 1-2 weeks, mid-range 3-5 weeks, full renovation 6-10 weeks"
+    },
+    {
+      "id": "bathroom_remodeling",
+      "name": "Bathroom Remodeling",
+      "url": "/bathroom-remodeling-garland-tx/",
+      "description": "Walk-in showers, bathtub installation, tile work, vanity upgrades, and complete bathroom renovations. All trades in-house — tile, plumbing, electrical, waterproofing",
+      "sub_services": [
+        {"name": "Walk-In Shower Remodeling & Conversion", "description": "Tub-to-shower conversion, shower expansion, custom tile showers with waterproofing and glass enclosures"},
+        {"name": "Bathtub Installation & Replacement", "description": "Freestanding soakers, drop-in, alcove tubs, clawfoot replacements"},
+        {"name": "Tile Installation", "description": "Ceramic, porcelain, marble, slate, large-format, mosaic — floors, walls, showers"},
+        {"name": "Vanity, Sink & Fixture Upgrades", "description": "Double vanities, vessel sinks, wall-mounted, medicine cabinets, mirrors, lighting"},
+        {"name": "Bathroom Plumbing & Fixtures", "description": "Toilet replacement, plumbing rerouting, valve upgrades, water pressure"},
+        {"name": "Bathroom Lighting & Electrical", "description": "Vanity lighting, recessed, exhaust fans, heated floors, GFCI outlets"},
+        {"name": "Full Bathroom Renovation", "description": "Complete gut-and-rebuild — tile, plumbing, electrical, drywall managed in-house"},
+        {"name": "Accessible & ADA Bathroom Remodeling", "description": "Zero-threshold showers, grab bars, comfort-height toilets, widened doorways for aging-in-place"}
+      ],
+      "timeline": "Cosmetic 1-2 weeks, tub-to-shower 2-3 weeks, full renovation 3-4 weeks"
+    },
+    {
+      "id": "room_additions",
+      "name": "Room Additions",
+      "url": "/room-additions-garland-tx/",
+      "description": "Custom additions that blend with existing home — bedrooms, sunrooms, second stories, garage conversions, master suites",
+      "sub_services": [
+        {"name": "Bedroom Additions", "description": "New bedroom additions on ground level or second story"},
+        {"name": "Sunroom Additions", "description": "Enclosed sunrooms and screened porch conversions"},
+        {"name": "Second Story Additions", "description": "Full second-story or partial additions over existing footprint"},
+        {"name": "Garage Conversions", "description": "Converting attached garages to living space — bedrooms, offices, in-law suites"},
+        {"name": "Master Suite Additions", "description": "Primary bedroom + bath additions with walk-in closets"},
+        {"name": "In-Law / Guest Suite Additions", "description": "Self-contained guest or in-law suites with separate entries when needed"},
+        {"name": "Kitchen/Great Room Expansions", "description": "Expanding kitchen footprint or great rooms by pushing out existing walls"},
+        {"name": "Bonus Room Additions", "description": "Over-garage or basement-level bonus rooms"}
+      ],
+      "timeline": "8-16 weeks depending on size and permit timelines"
+    },
+    {
+      "id": "general_contractor",
+      "name": "General Contractor",
+      "url": "/general-contractor-garland-tx/",
+      "description": "Full-service general contracting — manages every trade, every permit, every subcontractor for whole-home and multi-room renovations",
+      "sub_services": [
+        {"name": "Whole-Home Renovations", "description": "Gut-and-rebuild or substantial multi-room renovations managed end-to-end"},
+        {"name": "Permit Management", "description": "City of Garland permit applications through final inspection"},
+        {"name": "Multi-Trade Coordination", "description": "Single point of contact managing electrical, plumbing, HVAC, framing, finish"},
+        {"name": "Historic Home Renovations", "description": "Sensitive renovations of older Garland homes preserving original character"},
+        {"name": "Budget Renovations", "description": "Cost-conscious renovations focused on ROI-positive updates"},
+        {"name": "Luxury Full Renovations", "description": "High-end whole-home renovations with custom finishes throughout"}
+      ],
+      "timeline": "Varies by scope — full home renovation typically 12-24 weeks"
+    }
+  ],
+
+  "pricing": {
+    "kitchen": {
+      "minor_update": {"low": 5000, "high": 15000, "scope": "New hardware, paint, fixtures, backsplash"},
+      "mid_range": {"low": 15000, "high": 40000, "scope": "New cabinets, countertops, flooring, appliances"},
+      "full_renovation": {"low": 40000, "high": 75000, "high_open": true, "scope": "Complete gut and rebuild, custom everything"},
+      "cabinet_replacement_only": {"low": 3000, "high": 12000, "scope": "New cabinet boxes and doors, hardware"},
+      "countertop_replacement_only": {"low": 1500, "high": 6000, "scope": "Material + installation, removal of old counters"},
+      "roi_note": "Kitchen remodels return 60-80% of cost in home value (Remodeling Magazine Cost vs Value Report)"
+    },
+    "bathroom": {
+      "cosmetic_update": {"low": 2500, "high": 8000, "scope": "New vanity, fixtures, toilet, paint, mirror, lighting"},
+      "tub_to_shower_conversion": {"low": 4000, "high": 12000, "scope": "Demo tub, waterproof, custom tile shower, glass enclosure"},
+      "mid_range_remodel": {"low": 12000, "high": 25000, "scope": "New tile, vanity, shower, toilet, fixtures, lighting"},
+      "full_master_renovation": {"low": 25000, "high": 50000, "high_open": true, "scope": "Complete gut and rebuild, custom tile shower, soaker tub, double vanity"},
+      "half_bath_addition": {"low": 8000, "high": 18000, "scope": "New powder room from scratch"},
+      "accessible_remodel": {"low": 8000, "high": 22000, "scope": "Zero-threshold shower, grab bars, comfort-height fixtures, widened entry"},
+      "roi_note": "Bathroom remodeling returns 60-70% of cost in home value"
+    },
+    "room_additions": {
+      "base_range": {"low": 25000, "high": 80000, "high_open": true, "scope": "Varies by size and complexity"}
+    }
+  },
+
+  "tile_pricing_reference": {
+    "porcelain": {"low": 3, "high": 8, "unit": "sq ft", "notes": "Most popular. Durable, water-resistant, works for floors and walls. Best all-around for Garland TX bathrooms"},
+    "marble": {"low": 8, "high": 20, "high_open": true, "unit": "sq ft", "notes": "Luxurious but requires sealing and careful maintenance"},
+    "subway_tile": {"low": 2, "high": 5, "unit": "sq ft", "notes": "Timeless, classic and modern bathrooms"},
+    "large_format": {"low": 5, "high": 15, "unit": "sq ft", "notes": "24x24+ makes bathroom feel bigger with fewer grout lines, very popular in Garland master baths"},
+    "mosaic": {"low": 5, "high": 20, "unit": "sq ft", "notes": "Small tiles on mesh backing, ideal for shower floors and accent walls"},
+    "slate_stone": {"low": 6, "high": 18, "unit": "sq ft", "notes": "Natural texture, requires sealing, spa-like feel"}
+  },
+
+  "editorial_content_angles": {
+    "walk_in_shower_vs_bathtub": {
+      "walk_in_shower_best_for": "daily use bathrooms, master suites, resale value",
+      "walk_in_shower_advantages": [
+        "Higher resale value in Garland TX",
+        "Easier daily entry, no step-over",
+        "More design flexibility",
+        "Lower long-term maintenance (no tub re-caulk)",
+        "Zero-threshold option for aging-in-place"
+      ],
+      "bathtub_best_for": "households with young children, relaxation-focused baths",
+      "bathtub_advantages": [
+        "Essential for young children",
+        "Soaker tubs add spa element",
+        "Some buyers want at least one tub",
+        "Generally lower cost than custom tile shower",
+        "Freestanding tubs as visual centerpiece"
+      ],
+      "ghp_recommendation": "For master bathrooms in Garland TX, walk-in shower almost always delivers better ROI and daily usability. Keep a tub in a secondary bathroom for kids/guests. If the master is the only bathroom, keep the tub."
+    }
+  },
+
+  "service_areas": {
+    "primary": {
+      "city": "Garland",
+      "county": "Dallas",
+      "zip_codes": ["75040", "75041", "75042", "75043", "75044"],
+      "status": "home_base"
+    },
+    "nearby": [
+      {"city": "Rowlett", "county": "Dallas/Rockwall", "zip_codes": ["75088", "75089"]},
+      {"city": "Mesquite", "county": "Dallas", "zip_codes": ["75149", "75150", "75180", "75181", "75182"]},
+      {"city": "Sachse", "county": "Dallas/Collin", "zip_codes": ["75048"]},
+      {"city": "Wylie", "county": "Collin/Dallas/Rockwall", "zip_codes": ["75098"]},
+      {"city": "Richardson", "county": "Dallas/Collin", "zip_codes": ["75080", "75081", "75082", "75083"]},
+      {"city": "Murphy", "county": "Collin", "zip_codes": ["75094"]},
+      {"city": "Sunnyvale", "county": "Dallas", "zip_codes": ["75182"]}
+    ],
+    "total_cities": 8,
+    "total_zip_codes": 20
+  },
+
+  "neighborhoods_by_city": {
+    "garland": {
+      "75044_firewheel_area": [
+        "Springpark Central", "Firewheel Farms", "Firewheel Estates",
+        "The Fairways at Firewheel", "Hills at Firewheel", "Oakridge",
+        "Camelot", "Nottingham Estates", "The Greens",
+        "Schreiber Estates", "Brentwood Place", "Creek Bend Estates",
+        "Northlake Estates", "Creekside Village"
+      ],
+      "75043_duck_creek_lake": [
+        "Club Hill", "Eastern Hills", "Duck Creek", "Gatewood",
+        "Carriagehouse Estates", "Southgate Estates", "Crystal Lake Estates",
+        "Meadowood", "La Prada", "Rosehill", "Crystal Lakes",
+        "Shores of Eastern Hills", "Lake Crest Park", "Heather Glen"
+      ],
+      "75040_north_garland": ["Firewheel Town Center area", "Breckinridge Park", "Glenbrook Meadows"],
+      "75041_south_garland": ["Granville Arts Center area", "Centerville", "Southplace Estates"],
+      "75042_west_garland": ["Hawaiian Falls area", "Forest Ridge", "Fairdale", "Mill Creek"]
+    },
+    "richardson": [
+      "Canyon Creek (75080)", "Northrich (75080)", "Richardson Heights (75080)",
+      "Greenwood Hills (75080)", "The Reservation (75080)", "J.J. Pearce (75080)",
+      "University Estates (75081)", "Berkner Park (75081)",
+      "Spring Park (75082)", "Breckinridge Park (75082)", "CityLine/Galatyn (75082)"
+    ],
+    "rowlett": ["Waterview (75089)", "Liberty Grove (75089)", "Dalrock East (75089)"],
+    "sachse": ["Woodbridge (75048)", "Heritage Park (75048)", "Pleasant Valley (75048)"]
+  },
+
+  "process": [
+    {"step": 1, "name": "Free Same-Day Estimate", "description": "Call or fill out form. GHP visits the home same day and provides detailed written estimate at no charge."},
+    {"step": 2, "name": "Scope & Permits", "description": "Finalize project scope, handle all City of Garland permit applications, provide clear timeline before work begins."},
+    {"step": 3, "name": "Remodeling Begins", "description": "Crew gets to work, manages every trade, keeps customer updated, maintains clean and safe job site daily."},
+    {"step": 4, "name": "Final Walkthrough", "description": "Walk every inch with the customer, address anything needing attention, confirm 100% satisfaction before job is considered complete."}
+  ],
+
+  "differentiators": [
+    "Local Garland TX remodelers — not a franchise, not a middleman, not a national chain",
+    "Licensed and fully insured",
+    "Free same-day written estimates",
+    "All City of Garland permits handled by GHP",
+    "100% satisfaction guarantee",
+    "All trades in-house (tile, plumbing, electrical) — no subcontracting out",
+    "One point of contact throughout the project",
+    "Daily job site cleanup",
+    "Proper waterproofing systems — no shortcuts on moisture protection",
+    "15+ years experience"
+  ],
+
+  "voice_anchors_from_site": [
+    "We're not a franchise, not a national chain, and not a call center",
+    "we show up on time, and stand behind every project",
+    "someone who knows the area, respects your home, and doesn't disappear after the check clears",
+    "No surprises, no shortcuts",
+    "built to impress",
+    "one contractor, one timeline, zero headaches",
+    "contractor who disappeared mid-project, blew the budget, or delivered sloppy work. We built Garland Home Pros specifically to be the opposite",
+    "That's not a marketing promise, it's the only way a local remodeling business survives in Garland TX. Our reputation depends on every single project.",
+    "waterproofing failures in bathrooms lead to expensive structural damage",
+    "These are the things that separate professional bathroom remodelers from contractors who cut corners"
+  ],
+
+  "external_authority_links_already_used": [
+    "https://www.remodeling.hw.net/cost-vs-value/2024/",
+    "https://www.garlandtx.gov/176/Building-Inspections",
+    "https://www.nahb.org/research/housing-economics/housing-indexes/remodeling-market-index"
+  ],
+
+  "blog_status": "Blog link exists in nav but appears empty/unpopulated — this is where the automation publishes",
+
+  "existing_page_inventory": [
+    {"url": "/", "title": "Home Remodeling Garland TX", "status": "live"},
+    {"url": "/remodeling-services-garland-tx/", "title": "Services hub", "status": "live"},
+    {"url": "/kitchen-remodeling-garland-tx/", "title": "Kitchen Remodeling", "status": "live"},
+    {"url": "/bathroom-remodeling-garland-tx/", "title": "Bathroom Remodeling", "status": "live"},
+    {"url": "/room-additions-garland-tx/", "title": "Room Additions", "status": "live"},
+    {"url": "/general-contractor-garland-tx/", "title": "General Contractor", "status": "live"},
+    {"url": "/service-areas/", "title": "Service Areas", "status": "live"},
+    {"url": "/about/", "title": "About Us", "status": "live"},
+    {"url": "/contact/", "title": "Contact / Free Estimate", "status": "live"},
+    {"url": "/blog/", "title": "Blog", "status": "empty_ready_for_automation"}
+  ]
+}
