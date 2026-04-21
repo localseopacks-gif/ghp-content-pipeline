@@ -58,7 +58,7 @@ print("Calling Claude API...")
 client = Anthropic(api_key=ANTHROPIC_API_KEY)
 
 response = client.messages.create(
-    model="model="claude-sonnet-4-5",
+    model="claude-sonnet-4-5",
     max_tokens=4000,
     system=system_prompt,
     messages=[{"role": "user", "content": user_prompt}]
