@@ -80,10 +80,16 @@ post_data = {
 print(f"Pushing to WordPress at {WP_SITE_URL}...")
 wp_endpoint = f"{WP_SITE_URL}/wp-json/wp/v2/posts"
 
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "application/json"
+}
+
 response = requests.post(
     wp_endpoint,
     json=post_data,
     auth=(WP_USERNAME, WP_APP_PASSWORD),
+    headers=headers,
     timeout=30
 )
 
